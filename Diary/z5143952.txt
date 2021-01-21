@@ -1,0 +1,34 @@
+Week 1 
+Since the travel ban, did not come back on time 
+Week 2 
+Since the travel ban, did not come back on time 
+Week 3 
+
+Join a group
+learned the react and redux stuff
+Created a wireframe/prototype of website design on Adobe XD 
+
+Week 4 
+started on the register,login,logout and UI design
+
+Week 5
+wait back end done and help with the backend design
+
+week 6 
+Finished off register,login,logout page
+
+week 7
+started working on game part include the database model design 
+
+
+week 8 
+Finished the value of the portfolio and cash on hand and total value
+
+Week 9 
+added password change page and fixed bugs
+add error massage for register,login logout
+
+Week 10 
+fixed bugs include the user infomation not clean after logout and so on
+Prepare for presentation 
+

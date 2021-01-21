@@ -1,0 +1,41 @@
+.inputPhoto {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+  justify-content: centre;
+  display: flex;
+  margin: auto;
+  display: block;
+}
+
+.pred {
+  font-family: 'Spartan';
+  align-items: center;
+  text-align: center;
+  font-size: 30px;
+}
+
+.pred2 {
+  font-family: 'Quicksand';
+  align-items: center;
+  text-align: center;
+}
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.yes {
+  color: #17b978;
+  font-weight: bold;
+}
+
+.no {
+  color: #f85959;
+  font-weight: bold;
+}

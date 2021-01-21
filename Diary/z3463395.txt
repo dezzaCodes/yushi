@@ -1,0 +1,54 @@
+Week 1
+
+Formed group, discussed project.
+
+Week 2
+
+Discussed possible extensions to project.
+Worked on proposal (technical decisions) & acceptance criteria for user stories.
+
+Week 3
+
+Focused on proposal
+
+Week 4
+
+Created simple implementation of login/logout utilising bcrypt
+
+Week 5
+
+Learning react redux
+Focused on creating routes for portfolio and holdings (add/delete)
+- Flask routes for adding/deleting portfolios and holdings created
+- Learning fundamentals of redux
+
+
+Week 6
+Learning react redux
+Worked on routing the backend and frontend together for creation and deletion of portfolios and holdings
+- Heavy react redux learning
+- Had a lot of issues with persistence in db as well as on frontend
+
+Week 7
+Worked on the editing of portfolio details - quiet week as had OS assignment
+- Allows user to change name of portfolio now
+- Added route in the backend to edit the portfolio
+
+Week 8
+Started working on the game implementation
+Added functionality to add holdings and remove holdings
+Worked on rendering the game holdings to the front end
+W0rked on rendering cash values and portfolio values
+- Also had to create new routes and backend logic for this
+- Had to restructure User class to accommodate for the game state
+
+Week 9
+Got fully functional game working
+Added functionality to the games such as reset button and completed functionality of partial sale of holding
+Implemented a rank for the user comparative to other users
+
+Week 10
+CSS
+Bug fixing
+Added features to game such as brokerage fees and leaderboards
+Worked on report

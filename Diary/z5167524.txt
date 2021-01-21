@@ -1,0 +1,54 @@
+Week 1
+
+Formed group, discussed project.
+
+Week 2 
+
+Discussed possible extensions to project.
+Worked on proposal (technical decisions) & acceptance criteria for user stories.
+
+Week 3
+
+Discussed sprints, allocation of user stories, database design.
+Created ER & class diagram.
+Created initial skeleton structure for project.
+
+Week 4
+
+Restructed database, finished basic models for users, portfolio and holdings.
+Worked on fetching stock data using api (alphavantage).
+Completed stock routes (/stocks & /stocks/<code>).
+Tested /login & /register routes.
+
+Week 5 
+
+Worked on Scraper & Routes for top gainers/declines/companies and industry indices
+Added option for table pagination for our React tables
+Added backend route and frontend graph for stock history
+Added backend route for searching company by code/company name & frontend searchBar component that filters search
+
+Week 6
+Refactored all current components (except stock detail view) to use react redux
+Completed stock search
+Changed structure of redux for stocks fetching to minimise fetching
+Integrated search bar created to header of app & fixed bugs.
+
+Week 7
+Changed backend portfolio add/edit/delete & holding add/delete backend routes for api use (added authorization check for user web json tokens)
+Finished frontend for portfolios & portfolio details
+Started and completed backend for performance (both daily & historical) of portfolios & holdings
+
+Week 8
+Tested edit portfolio
+Rewrote historical performance backend because of api limitations (using yfinance instead of alphavantage) 
+Finished both backend & frontend (graphs, styling) portfolio and holding performance/statistics with bug fixes
+Started Monte Carlo simuation
+
+Week 9
+Finished Backend & frontend of monte Carlo
+finished backend & frontend of value at risk & expected shortfall calculation
+
+Week 10
+added display of errors/confirmation for game
+fixing bugs, restyling
+worked on report

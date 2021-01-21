@@ -1,0 +1,71 @@
+/* use for debugging horizontal scroll lmao
+*{
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}*/
+  .title.top-container {
+      background-color: #F8FAFD;
+  }
+
+  .text.top-container {
+      background-color: #F8FAFD;
+  }
+
+  .title.mid-container {
+      background-color: #E5F4FC;
+  }
+
+  .text.mid-container{
+      background-color: #E5F4FC;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+  }
+
+
+.card1 {
+      background-color: #F8FAFD;
+      border: none;
+      width: 20rem;
+      height: 18rem;
+}
+
+.imgrow {
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      height: 30rem;
+}
+
+.smallimg {
+      align-items: center;
+      justify-content: center;
+      /*display:flex;
+        flex-direction:column;*/
+      font-family: 'Quicksand';
+}
+
+.cardImage {
+      width: 20rem;
+      height: 10rem;
+}
+
+.howTo {
+      margin-right: 2rem;
+}
+
+.subtitle.first {
+      height: 7rem;
+}
+
+.sep {
+      width: 30rem;
+      margin-top: 1rem;
+      padding-bottom: 1rem;
+      margin-bottom:1rem;
+      border-bottom-style: solid;
+      border-color: #ED602C;
+      border-width: thin;
+}

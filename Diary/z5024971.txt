@@ -1,0 +1,52 @@
+Week 1 
+Formed group and discussed each topic and decided on stock portfolio topic. 
+Brainstormed ideas on possible extensions like analytics our website could provide - neural nets and suggesting stocks to users. 
+Also discussed which languages we would be utilising and any libraries or APIs we could use. 
+
+Week 2 
+
+As a group we worked on writing proposal and allocating roles. Created Github and Jira accounts. 
+I worked on writing about the technical scope and design section of the project, by drafting out some initial designs for the webpage. 
+
+Week 3
+Created a wireframe/prototype of website design on Adobe XD to include in the portfolio. As a group, we finalised the initial proposal. 
+Researched literature regarding neural networks in stock prediction & decided to use similar methods to one particular research paper. 
+
+Week 4 
+Started on creating dataset for stock images by:
+- pulling appropriate data from yfinance of ASX50 companies
+- generating candlestick charts for different period intervals using matplotlib, mplfinance 
+- use PIL for cropping, resizing and image manipulation and export as jpg files
+- generating csv of labels, with appropriate ID for each image 
+
+week 6 
+Finished off generating both training/testing dataset. 
+Worked on implementing a custom pytorch Dataset to read in image files/label csv for pytorch and connect to dataloader 
+
+week 7
+Finished work on model and implementing network layers for CNN.  
+Also made function for testing the neural net. 
+Started on training the neural net.
+
+week 8 
+Continued training the neural net to test different parameters/layers. A problem encountered was that the neural net was approximating a mean for output, which I later realised was probably due to a small dataset.
+So I changed original data generation code to generate a much larger dataset similar to that of the original paper (sliding window approach) 
+Also experimented with known architecture models eg. VGG, AlexNet
+
+
+Week 9 
+Experimented with neural network layers and training neural net and trying to fix overfitting problem using dropout.
+Exported a final neural network model, then integrated model into website.
+I created and styled neural net page and also added info/explanation on the page about CNN architecture and concept to explain to the user. 
+
+Week 10 
+Changed styling and formatting of: 
+- home page
+- login page, register page, change password page 
+- analytic pages 
+to ensure design was consistent using React Bootstrap.
+Prepared for presentation and worked on writing up final report. 
+
+Week 11
+Finalised final report for submission. 
+

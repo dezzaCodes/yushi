@@ -1,0 +1,68 @@
+Week 1
+
+Formed group with two other members, discussed project and 
+decided on the stock portfolio topic.
+
+Week 2
+
+Additional members joined the team. 
+Worked on setting up Jira.
+Worked on the proposal in particular the user stories and acceptance criteria.
+
+
+Week 3
+
+Discussed sprints, role allocation and created a sprint schedule for the proposal.
+Finialised the proposal and helped create a simple wireframe of the website on Adobe XD.
+Wrote up the user stories and acceptance criterias onto Jira. 
+
+Week 4
+
+Experimented with Alpha Vantage API and yFinance, found limitations to the API 
+in particular Alpha Vantages call limitations. 
+Started working on web scraper for getting additional data on Australian stocks
+which were not available from Alpha Vantage or yFinance.
+
+Week 5
+
+Finished web scraper for getting stock data.
+Focused on learning Javascript, React and Redux for front end.
+
+Week 6 
+
+Added additional data that from the web scraper into the front end display of 
+stock data.
+
+Week 7 
+
+Began creating the backend for the stock screener as part of analytics.
+Researched how other stock screeners filtered stocks. 
+Created functionality that would load the database with stocks listed on the ASX300
+and would calculate the ROE of a stock and get the price to earnings and dividend yield of stocks.
+
+Week 8 
+
+Finialised the back end of the stock screener and worked on debugging.
+Began the front-end for the stock screener.
+
+Week 9
+
+Finished the front-end for the stock screener.
+Researched ElephantSql cloud based database to see if it was a viable option to change 
+the database system.
+Helped with neural network data generation.
+
+Week 10
+
+Worked on front end navbar and fixed bugs with the stock screener and front end implementation.
+Prepared for presentation.
+Created an Abouts page following the presentation. 
+Started working on final report.
+
+Week 11
+
+Attempted to change the stock scraping functionality due to AlphaVantage prices for 
+AUS stocks not being live. Found that pure webscraping was not a viable option as
+performance speed was slow and html page structures would occassionaly change leading to 
+errors with scraping. 
+Focused on fixing any additional bugs and finialising the report. 
